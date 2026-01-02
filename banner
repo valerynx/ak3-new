@@ -7,11 +7,9 @@
  > KernelSU variant: SukiSU Ultra
  > KernelSU Manager supported: SukiSU Ultra
  > SELinux: Enforcing
- > SusFS: No
  > kernel source: valerynx/vampire_samsung_a32 on GitHub
  > thanks:
  - fukiame: improve kernel source
  - Luminous418: EroFS kernel source
  - msan: commit manual hook
  - Renia: help me for hook min scope
- - slm slm
