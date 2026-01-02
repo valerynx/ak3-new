@@ -1,11 +1,13 @@
- /_/\  
-( o.o ) | vampire
- > ^ <                        
+                        ___      __   __ 
+  __ _  ___  ___  ___  / (_)__ _/ /  / /_
+ /  ' \/ _ \/ _ \/ _ \/ / / _ `/ _ \/ __/
+/_/_/_/\___/\___/_//_/_/_/\_, /_//_/\__/ 
+                         /___/                   
 ======
- > KernelSU variant: SukiSU Ultra
- > KernelSU Manager supported: SukiSU Ultra
+ > KernelSU variant: KernelSU Next 
+ > KernelSU Manager supported: KernelSU Next
  > SELinux: Enforcing
- > kernel source: valerynx/vampire_samsung_a32 on GitHub
+ > kernel source: valerynx/moonlight_samsung_a32 on GitHub
  > thanks:
  - fukiame: improve kernel source
  - Luminous418: EroFS kernel source
